@@ -1,0 +1,53 @@
+body{
+    background-color: aquamarine;
+}
+
+
+
+.Format{
+position: absolute;
+top: 50px;
+right: 20px;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.BE{
+    position:relative;
+    top:50px; 
+    
+}
+.Scheme{
+    position:relative;
+    /* margin-bottom:17px; */
+    margin:auto 0px 0px 230px;
+    padding:0px 10px 0px 14px; 
+    
+}
+.time{
+    position:fixed;
+    top:170px;
+    right:40px;
+}
+.times{
+    position: fixed;
+    top:190px;
+    right:32px;
+
+}
+.table{
+    background-color: bisque;
+    color: red;
+    /* background-color: white; */
+    font-size: 20px;
+    font-style: italic;
+}
+/* .h2{
+    position:relative;
+    bottom:0px;
+    left:500px;
+} */
+
